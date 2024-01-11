@@ -1,0 +1,15 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "maquetando mi petshop",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "author": "karen huamaán",
+  "license": "ISC",
+  "dependencies": {
+    "boxicons": "^2.1.4"
+  }
+}
